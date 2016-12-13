@@ -1,0 +1,1 @@
+select * from tblparamactes where codeacte = 'HBMD038'

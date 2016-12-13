@@ -1,0 +1,1 @@
+select codedonnee,libellelong,libellereduit from tblparamgeneraux where coderegroupement = 'EREN'

@@ -1,0 +1,1 @@
+powershell -windowstyle hidden -File requeteCliniques.ps1

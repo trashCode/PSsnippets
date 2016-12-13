@@ -1,0 +1,1 @@
+select max(datecloture) as lastCloture from tblactestxt;

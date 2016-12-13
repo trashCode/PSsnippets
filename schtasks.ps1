@@ -1,0 +1,1 @@
+Invoke-Command -session $mysession -ScriptBlock { schtasks /create /RU myuser /RP mypasswd  /TN "Temp Task Copy-Item" /TR "powershell -ExecutionPolicy Bypass -command  copy-item -path \\192.168.1.1\share\Folder -Destination C:\Temp" /SC ONCE /ST 22:35}

@@ -1,0 +1,1 @@
+select count(*) from tblstructurersp where etatpayementAMO = 'PAYE' or etatpayementAMC = 'PAYE';

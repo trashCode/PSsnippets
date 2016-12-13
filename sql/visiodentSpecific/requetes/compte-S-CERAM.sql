@@ -1,0 +1,1 @@
+select count(*) from tblactesspo where libelleacte = 'Supplement tout ceramique prothese fixe'

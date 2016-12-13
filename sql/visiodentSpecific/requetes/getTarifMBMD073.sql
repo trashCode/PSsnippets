@@ -1,0 +1,1 @@
+select ccam_honoraire from tblparamactes where codeacte in ('LBLD073')

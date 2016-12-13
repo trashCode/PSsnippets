@@ -1,0 +1,1 @@
+select ccam_honoraire,codeacte,familledacte,nombrededents,dentstraitees from tblparamactes where codeacte like ('YYYY%')

@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<agents defaultAgent="f32f9021-5d03-419d-949e-b97011a5da94">
+  <add id="00000000-0000-0000-0000-000000000000" name="localhost" binding="127.0.0.1:161" version="0" getCommunity="public" setCommunity="private" authenticationPassphrase="" privacyPassphrase="" authenticationMethod="" privacyMethod="" userName="" timeout="1000" />
+  <add id="f32f9021-5d03-419d-949e-b97011a5da94" name="test-lexmark" binding="55.137.14.96:161" version="0" getCommunity="public" setCommunity="private" authenticationPassphrase="" privacyPassphrase="" authenticationMethod="" privacyMethod="" userName="" timeout="1000" />
+</agents>
